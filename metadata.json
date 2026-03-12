@@ -1,0 +1,7 @@
+{
+  "name": "Gourmet Haven",
+  "description": "A premium restaurant digital platform featuring immersive 3D effects, role-based dashboards, and a sophisticated culinary experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
